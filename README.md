@@ -1,4 +1,4 @@
-# A simple Shopping-CArt-App using [React.js](https://reactjs.org)
+# A simple Shopping-Cart-App using [React.js](https://reactjs.org)
 
 > **This is a very basic app but useful to understand the React Components, Reducer, Effects, Context etc. .**
 
